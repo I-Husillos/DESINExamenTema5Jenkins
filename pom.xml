@@ -15,7 +15,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>interfaz.InterfazJenkins</mainClass>
+							<mainClass>main.InterfazJenkins</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
